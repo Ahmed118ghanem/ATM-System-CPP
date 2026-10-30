@@ -39,7 +39,7 @@ Client information is stored in `bankfile.txt`, including account number, PIN, c
 
 **Note:** This is an educational console project and is not intended for real financial transactions.
 
-## Author
+## Developer
 
 Ahmed Ghanem
 
