@@ -127,7 +127,7 @@ short read_quick_withdraw()
 	while (choose < 1 || choose>9)
 	{
 		cout << "\nWrong Value!\n";
-		cout << "Choose what do you want to do? [1 to 5]? ";
+		cout << "Choose what do you want to do? [1 to 9]? ";
 		cin >> choose;
 	}
 	return choose;
